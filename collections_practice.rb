@@ -29,7 +29,3 @@ def kesha_maker(array)
     item[2] = "$"
   end
   
-def find_a(array)
-  array.select do |word|
-      word[0] == "a"
-end
